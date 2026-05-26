@@ -1,0 +1,6 @@
+jupyter
+octave_kernel
+numpy
+matplotlib
+ipywidgets
+octave
